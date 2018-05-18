@@ -154,13 +154,13 @@ body {
 .firstpart {
     align-items: center;
     justify-content: center;
-    height: 40vh;
+    height: 50vh;
     display: flex;
 }
 
 .label1 {
     width: 60vw;
-    height: 40vh;
+    height: 50vh;
     display: inline-block;
 }
 
@@ -170,21 +170,20 @@ body {
     font-style: italic;
     left:5vw;
     padding-left: 5px;
-    line-height:25px;
+    line-height:1vh;
 }
 
 .catalog {
     display: inline-block;
     width: 15vw;
-    height: 40vh;
-    line-height: 25px;
+    height: 45vh;
     background-color: #74b9ff;
+    padding-top:3vh;
 }
 .catalogborder{
     display: inline-block;
     width: 15vw;
-    height: 40vh;
-    line-height: 25px;
+    height:50vh;
 }
 .catalog > a {
     text-decoration: none;
@@ -192,9 +191,9 @@ body {
     font-family: Roboto;
     font-style: italic;
     color: #7f8c8d;
-    padding-left:10px;
+    padding-left: 1.5vw;
 }
 .mainlysuggest{
-    height:40vh;
+    height:49vh;
     width:60vw;
 }
