@@ -170,20 +170,21 @@ body {
     font-style: italic;
     left:5vw;
     padding-left: 5px;
+    line-height:25px;
 }
 
 .catalog {
     display: inline-block;
     width: 15vw;
     height: 40vh;
-    line-height: 30px;
+    line-height: 25px;
     background-color: #74b9ff;
 }
 .catalogborder{
     display: inline-block;
     width: 15vw;
     height: 40vh;
-    line-height: 30px;
+    line-height: 25px;
 }
 .catalog > a {
     text-decoration: none;
@@ -192,4 +193,8 @@ body {
     font-style: italic;
     color: #7f8c8d;
     padding-left:10px;
+}
+.mainlysuggest{
+    height:40vh;
+    width:60vw;
 }
